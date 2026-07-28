@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Zxenju 👋<br><br>> A passionate learner continuously exploring code, technology, and creative ideas.<br><br>---<br><br> 💫 About Me<br><br>* 🔭 **Currently working on:** Exciting personal projects and growing my portfolio.<br>* 🌱 **Currently learning:** Software development, programming fundamentals, and modern tech stacks.<br>* 🤔 **Looking for help with:** Expanding my coding knowledge and collaborating on open-source projects.<br>* 💬 **Ask me about:** Tech, creative projects, or anything you'd like to chat about!<br><br>---
+# Hi there, I'm Jhobert S. Dionisio 👋<br><br>> A passionate learner continuously exploring code, technology, and creative ideas.<br><br>---<br><br> 💫 About Me<br><br>* 🔭 **Currently working on:** Exciting personal projects and growing my portfolio.<br>* 🌱 **Currently learning:** Software development, programming fundamentals, and modern tech stacks.<br>* 🤔 **Looking for help with:** Expanding my coding knowledge and collaborating on open-source projects.<br>* 💬 **Ask me about:** Tech, creative projects, or anything you'd like to chat about!<br><br>---
 
 
 ## 🌐 Socials:
